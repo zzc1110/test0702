@@ -5,6 +5,6 @@ package com.zzc;
  */
 public class Dog {
     public static void main(String[] args) {
-        System.out.println("Dog");
+        System.out.println("Cat");
     }
 }
